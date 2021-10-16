@@ -1,0 +1,1 @@
+python D:/hadi/SEAS/code/app.py  --encodings D:/hadi/SEAS/code/encodings.pickle --output D:/hadi/SEAS/output/output.avi 
